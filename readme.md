@@ -2,6 +2,8 @@
 
 A web app that predicts the probability of cancer based on user medical and lifestyle data, using a machine learning model (Random Forest) trained on a public dataset.
 
+## View demo
+- View live on [https://jimdin123.pythonanywhere.com](https://jimdin123.pythonanywhere.com/)
 ## Features
 - friendly webUI with tailwindCSS for frontend and Flask for backend
 - get data for age, gender, weight, height, smoking and alcohol habits, genetic risk, physical activity, and cancer history
